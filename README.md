@@ -33,3 +33,6 @@ Theses insights empower stakehodlers with key business metrics, enabling strateg
 ##  License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this projec twiht proper attribution. 
+
+## ABOUT ME
+Hello! I'm Nathaniel Hwan Choi, a finance grad but also a data enthusiast. 
