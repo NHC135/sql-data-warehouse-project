@@ -1,9 +1,9 @@
-# Data Warehouse and Analytics Project 
+# :floppy_disk: Data Warehouse and Analytics Project 
 
 Welcome to the **Data Warehouse and Analytics Project** repository!
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights, Designed as a project that highlights industry best practices in data engineering and analytics
 
-## Project Requirements 
+## :memo: Project Requirements 
 
 ### Building the Data Warehouse (Data Engineering) 
 
@@ -19,7 +19,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ----
 
-### BI: Analytics & Reporting (Data Analytics) \
+### :dart: BI: Analytics & Reporting (Data Analytics) \
 
 #### Objective
 Develop SQL - based analytics to deliver detailed insights into : 
@@ -30,9 +30,9 @@ Develop SQL - based analytics to deliver detailed insights into :
 
 Theses insights empower stakehodlers with key business metrics, enabling strategic decision making
 
-##  License
+## :construction: License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this projec twiht proper attribution. 
 
-## ABOUT ME
+## :gift: ABOUT ME
 Hello! I'm Nathaniel Hwan Choi, a finance grad but also a data enthusiast. 
