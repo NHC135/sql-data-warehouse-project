@@ -87,7 +87,7 @@ BEGIN
 		PRINT '>> Inserting Data Into: bronze.erp_cust_az12'
 		TRUNCATE TABLE bronze.erp_cust_az12;
 		BULK INSERT bronze.erp_cust_az12
-		FROM 'C:\Users\natha\OneDrive\Documents\sql-data-warehouse-project\datasets\source_crm\cust_az12.csv'
+		FROM 'C:\Users\natha\OneDrive\Documents\sql-data-warehouse-project\datasets\source_erp\cust_az12.csv'
 		WITH (
 			FIRSTROW = 2, 
 			FIELDTERMINATOR = ',',
@@ -102,7 +102,7 @@ BEGIN
 		PRINT '>> Inserting Data Into: bronze.erp_loc_a202'
 		TRUNCATE TABLE bronze.erp_loc_a202;
 		BULK INSERT bronze.erp_loc_a202
-		FROM 'C:\Users\natha\OneDrive\Documents\sql-data-warehouse-project\datasets\source_crm\loc_a202.csv'
+		FROM 'C:\Users\natha\OneDrive\Documents\sql-data-warehouse-project\datasets\source_erp\loc_a101.csv'
 		WITH (
 			FIRSTROW = 2, 
 			FIELDTERMINATOR = ',',
@@ -116,7 +116,7 @@ BEGIN
 		PRINT '>> Inserting Data Into: bronze.erp_px_cat_g1v2'
 		TRUNCATE TABLE bronze.erp_px_cat_g1v2;
 		BULK INSERT bronze.erp_px_cat_g1v2
-		FROM 'C:\Users\natha\OneDrive\Documents\sql-data-warehouse-project\datasets\source_crm\px_cat_g1v2.csv'
+		FROM 'C:\Users\natha\OneDrive\Documents\sql-data-warehouse-project\datasets\source_erp\px_cat_g1v2.csv'
 		WITH (
 			FIRSTROW = 2, 
 			FIELDTERMINATOR = ',',
